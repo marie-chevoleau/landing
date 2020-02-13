@@ -1,0 +1,38 @@
+@import url(https://fonts.googleapis.com/css?family=Bebas+Neue|Nunito:300,400,700,900|PT+Sans+Narrow:400,700&display=swap);
+@import url(components/container.css);
+@import url(components/avatar.css);
+@import url(components/button.css);
+@import url(components/banner.css);
+@import url(components/card.css);
+
+body {
+	font-family: 'PT Sans Narrow', sans-serif;
+	font-size: 18px;
+	margin: 0px;
+  text-align: center;
+}
+
+h1, h2 {
+	font-family: 'Nunito', sans-serif;
+
+}
+
+h1 {
+	font-weight: bold;
+	font-size: 32px;
+}
+
+h2 {
+	font-size: 24px;
+  margin: 30px auto;
+}
+
+a {
+	text-decoration: none;
+}
+
+#text-red {
+  color: red;
+  font-weight: bold;
+  font-size: 20px;
+}
